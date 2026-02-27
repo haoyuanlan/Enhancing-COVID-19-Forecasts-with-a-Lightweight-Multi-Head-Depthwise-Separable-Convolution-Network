@@ -2,6 +2,12 @@
 
 The code and datasets are placed in the resource folder.
 
-Environment Configuration:Python:3.12.3 | packaged by Anaconda; Ipython:8.30.0
+Major Environment Configuration:
+- Python:3.12.3 | packaged by Anaconda
+- Ipython:8.30.0
+- keras：3.9.0
+- tensorflow：2.16.1
+- numpy：1.26.4
+- pandas：2.2.2
 
 We recommend running the code in IPython
