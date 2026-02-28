@@ -1,0 +1,5 @@
+Data Sources:
+
+1.The datasets for India, Brazil, the United States, and Spain were obtained from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Available at: https://github.com/CSSEGISandData/COVID-19
+
+2.The datasets for Switzerland, Croatia, and Poland were sourced from the World Health Organization (WHO) COVID-19 dashboard. Available at: https://data.who.int/dashboards/covid19/cases?n=c
