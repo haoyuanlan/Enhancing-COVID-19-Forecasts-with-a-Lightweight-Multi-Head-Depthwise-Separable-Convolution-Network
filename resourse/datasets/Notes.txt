@@ -1,7 +1,0 @@
-Please note:
-
-Datasets are from:
-
-1.Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19)
-
-2.The World Health Organization (WHO) panel (https://data.who.int/dashboards/covid19/cases?n=c)
