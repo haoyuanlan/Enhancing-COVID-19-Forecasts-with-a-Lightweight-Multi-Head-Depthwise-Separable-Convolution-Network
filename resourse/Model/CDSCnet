@@ -474,7 +474,7 @@ x_len = 7  # window size
 y_len = 1  # prediction step
 output_feature_len = 1
 
-filters = [16, 8]
+filters = [32, 16]
 kernel_size = 3
 num_heads = 3
 dff_size = 16
